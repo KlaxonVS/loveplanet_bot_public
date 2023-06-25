@@ -1,0 +1,13 @@
+venv/
+temp/
+geckodriver
+chromedriver
+*_cookies
+*.log
+__pycache__/
+.idea/
+klaxon_main.py
+.vscode/
+test.py
+.env
+.db
